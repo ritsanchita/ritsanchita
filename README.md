@@ -33,19 +33,19 @@ Featured Projects
 
 Power BI dashboard analyzing sales, profitability, discounts, returns, and business performance.
 
-"View Project" (https://github.com/ritsanchita/superstore-sales-performance-profitability-analysis)
+[View Project](https://github.com/ritsanchita/superstore-sales-performance-profitability-analysis)
 
 2. Customer Churn & Retention Analysis
 
 SQL and BigQuery analysis identifying churn patterns, customer segments, contract behavior, and retention opportunities.
 
-"View Project" (https://github.com/ritsanchita/telco-customer-churn-analysis)
+[View Project](https://github.com/ritsanchita/telco-customer-churn-analysis)
 
 3. Olist E-Commerce Data Analysis
 
 SQL and BigQuery analysis of e-commerce sales, customers, products, sellers, orders, and delivery performance.
 
-"View Project" (https://github.com/ritsanchita/olist-ecommerce-data-analysis)
+[View Project](https://github.com/ritsanchita/olist-ecommerce-data-analysis)
 
 ---
 
