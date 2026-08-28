@@ -57,6 +57,6 @@ Currently Learning
 
 ---
 
-Let's Connect
+## Let's Connect
 
-"LinkedIn" (https://www.linkedin.com/in/rit-sanchita-9574a5123)
+[LinkedIn](https://www.linkedin.com/in/rit-sanchita-9574a5123)
